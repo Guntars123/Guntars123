@@ -8,15 +8,18 @@ Welcome to my GitHub profile! I'm a passionate PHP developer with a love for bui
 ## Latest Projects
 Here are my three latest projects:
 
-### [ArticlePage](https://github.com/Guntars123/ArticlePage)
-A dynamic article page built with PHP. It provides a user-friendly interface for creating, reading, updating, and deleting articles.
+### [Article_page](https://github.com/Guntars123/ArticlePage)
+A dynamic article page built with PHP and follows the MVC (Model-View-Controller) pattern, ensuring a well-structured and maintainable codebase. It incorporates a robust routing system to handle different URL requests and leverages a cache system to enhance performance and optimize data retrieval.
+The website utilizes Twig as the template engine, and CSS for styling.
 
-### [RickandMorty](https://github.com/Guntars123/RickandMorty)
-An application that displays information about characters from the popular TV show "Rick and Morty." It utilizes PHP and the Rick and Morty API to fetch and display character data.
+### [RickandMorty_page](https://github.com/Guntars123/RickandMorty)
+An application that displays information about characters from the popular TV show "Rick and Morty." It utilizes PHP and the Rick and Morty API to fetch and display/filter character data. The user interface is powered by Twig, while the styling is implemented using CSS.
 
-### [Giphy_twig](https://github.com/Guntars123/Giphy_twig)
-A fun application that allows users to search for and display animated GIFs using the Giphy API. Built with PHP, Twig.
 
+### [Giphy_page](https://github.com/Guntars123/Giphy_twig)
+A fun application that allows users to search for and display animated GIFs using the Giphy API. Built with PHP, Twig, CSS.
+
+##
 Feel free to explore these projects to see my coding style and approach to development.
 
 If you're interested in collaborating or have any questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/guntarsvaivods/). Let's build something amazing together!
