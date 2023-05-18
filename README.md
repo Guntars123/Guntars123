@@ -3,6 +3,7 @@
 ## About Me
 Welcome to my GitHub profile! I'm a passionate PHP developer with a love for building innovative web applications. I strive for excellence in my code by following best practices and leveraging modern PHP frameworks like Laravel. My goal is to create clean, maintainable, and scalable solutions that exceed expectations.
 
+You can find me here:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guntarsvaivods/)
 
 ## Latest Projects
