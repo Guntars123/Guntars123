@@ -9,16 +9,19 @@ You can find me here:
 ## Latest Projects
 Here are my three latest projects:
 
+### [iBank](https://github.com/Guntars123/iBank)
+Is an internet banking application with 2FA authentication, supporting both
+traditional bank accounts and investment accounts. It enables users to manage their
+bank accounts, perform transactions, and buy or sell cryptocurrencies. The application
+is built using Laravel framework, utilizes MySQL, and integrates multiple APIs to
+enhance functionality and enable seamless data integration.
+
 ### [Article_page](https://github.com/Guntars123/ArticlePage)
 A dynamic article page built with PHP and follows the MVC (Model-View-Controller) pattern, ensuring a well-structured and maintainable codebase. It incorporates a robust routing system to handle different URL requests and leverages a cache system to enhance performance and optimize data retrieval.
 The website utilizes Twig as the template engine, and CSS for styling.
 
 ### [RickandMorty_page](https://github.com/Guntars123/RickandMorty)
 An application that displays information about characters from the popular TV show "Rick and Morty." It utilizes PHP and the Rick and Morty API to fetch and display/filter character data. The user interface is powered by Twig, while the styling is implemented using CSS.
-
-
-### [Giphy_page](https://github.com/Guntars123/Giphy_twig)
-A fun application that allows users to search for and display animated GIFs using the Giphy API. Built with PHP, Twig, CSS.
 
 ##
 Feel free to explore these projects to see my coding style and approach to development.
