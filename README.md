@@ -14,7 +14,7 @@ Is an internet banking application with 2FA authentication, supporting both
 traditional bank accounts and investment accounts. It enables users to manage their
 bank accounts, perform transactions, and buy or sell cryptocurrencies. The application
 is built using Laravel framework, utilizes MySQL, and integrates multiple APIs to
-enhance functionality and enable seamless data integration.
+enhance functionality and enable seamless data integration.[Click here to browse page by yourself](https://ib-project-1.000webhostapp.com)
 
 ### [Article_page](https://github.com/Guntars123/ArticlePage)
 A dynamic article page built with PHP and follows the MVC (Model-View-Controller) pattern, ensuring a well-structured and maintainable codebase. It incorporates a robust routing system to handle different URL requests and leverages a cache system to enhance performance and optimize data retrieval.
