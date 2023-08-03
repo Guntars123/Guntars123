@@ -9,7 +9,7 @@ You can find me here:
 ## Latest Projects
 Here are my three latest projects:
 
-### [iBank](https://github.com/Guntars123/iBank) to browse page by yourself [click here](https://ib-project-1.000webhostapp.com)
+### [iBank](https://github.com/Guntars123/iBank) - browse page by yourself [click here](https://ib-project-1.000webhostapp.com)
 Is an internet banking application with 2FA authentication, supporting both
 traditional bank accounts and investment accounts. It enables users to manage their
 bank accounts, perform transactions, and buy or sell cryptocurrencies. The application
