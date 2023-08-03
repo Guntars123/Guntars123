@@ -9,12 +9,12 @@ You can find me here:
 ## Latest Projects
 Here are my three latest projects:
 
-### [iBank](https://github.com/Guntars123/iBank)  [url of the page](https://ib-project-1.000webhostapp.com)
+### [iBank](https://github.com/Guntars123/iBank) to browse page by yourself [click here](https://ib-project-1.000webhostapp.com)
 Is an internet banking application with 2FA authentication, supporting both
 traditional bank accounts and investment accounts. It enables users to manage their
 bank accounts, perform transactions, and buy or sell cryptocurrencies. The application
 is built using Laravel framework, utilizes MySQL, and integrates multiple APIs to
-enhance functionality and enable seamless data integration.[Click here to browse page by yourself](https://ib-project-1.000webhostapp.com)
+enhance functionality and enable seamless data integration.
 
 ### [Article_page](https://github.com/Guntars123/ArticlePage)
 A dynamic article page built with PHP and follows the MVC (Model-View-Controller) pattern, ensuring a well-structured and maintainable codebase. It incorporates a robust routing system to handle different URL requests and leverages a cache system to enhance performance and optimize data retrieval.
